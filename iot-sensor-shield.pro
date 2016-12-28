@@ -1,4 +1,4 @@
-update=Thứ bảy, 26 Tháng mười một Năm 2016 16:32:09 ICT
+update=Thứ tư, 28 Tháng mười hai Năm 2016 11:55:03 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -56,5 +58,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=/home/trinhduc/Desktop/kicadlibrary/kicad-library/library/switches
+LibName31=lib/w_device
